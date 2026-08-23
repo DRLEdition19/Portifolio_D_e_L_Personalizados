@@ -1,0 +1,32 @@
+{
+  "name": "Portfolio D&L Personalizados",
+  "short_name": "Portfolio D&L",
+  "description": "Portifólio - D&L Personalizados - Personalizações e Design",
+  "start_url": "/portfolio_dl/",
+  "scope": "/portfolio_dl/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/portfolio_dl/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/portfolio_dl/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/portfolio_dl/screenshot-1.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ]
+}
